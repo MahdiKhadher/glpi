@@ -7,7 +7,7 @@
 
 ## About GLPI
 
-This is a test for feature branch
+This is a test for feature branch 2
 GLPI stands for **Gestionnaire Libre de Parc Informatique** is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing.
 
 GLPI features:
